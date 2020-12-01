@@ -129,4 +129,4 @@ defaults:
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
